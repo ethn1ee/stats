@@ -1,12 +1,12 @@
 # Stats
 
-![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=ethn1ee)
+![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=thdxg)
 
-![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=ethn1ee&hide_progress=true)
+![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=thdxg&hide_progress=true)
 
 - Compact layout
 
-![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=ethn1ee&layout=compact)
+![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=thdxg&layout=compact)
 
 ---
 
@@ -14,57 +14,57 @@
 
 - Default
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg)
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&hide=contribs,issues)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&hide=contribs,issues)
 
 - Showing additional stats
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - Showing icons
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&hide=issues&show_icons=true)
 
 - Shows GitHub logo instead rank level
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&rank_icon=github)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&rank_icon=github)
 
 - Shows user rank percentile instead of rank level
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&rank_icon=percentile)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&rank_icon=percentile)
 
 - Customize Border Color
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&border_color=2e4058)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&border_color=2e4058)
 
 - Include All Commits
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&include_all_commits=true)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&include_all_commits=true)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=ethn1ee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api?username=thdxg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Customizing stats card
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api/?username=ethn1ee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api/?username=thdxg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Setting card locale
 
-![Anurag's GitHub stats](https://stats.taehoonlee.dev/api/?username=ethn1ee&locale=es)
+![Anurag's GitHub stats](https://stats.taehoonlee.dev/api/?username=thdxg&locale=es)
 
 - Customizing repo card
 
-![Customized Card](https://stats.taehoonlee.dev/api/pin?username=ethn1ee&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://stats.taehoonlee.dev/api/pin?username=thdxg&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Gist card
 
@@ -76,8 +76,8 @@ Choose from any of the [default themes](#themes)
 
 - Top languages
 
-![Top Langs](https://stats.taehoonlee.dev/api/top-langs/?username=ethn1ee)
+![Top Langs](https://stats.taehoonlee.dev/api/top-langs/?username=thdxg)
 
 - WakaTime card
 
-![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=ethn1ee)
+![Harlok's WakaTime stats](https://stats.taehoonlee.dev/api/wakatime?username=thdxg)
